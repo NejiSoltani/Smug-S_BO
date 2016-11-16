@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassLibrary4
+namespace ClassLibrary1
 {
     public class Class1
     {
-        public int MyProperty { get; set; }
     }
 }
